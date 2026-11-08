@@ -1,0 +1,6 @@
+{
+  "name": "Ayesha's 21st Birthday Celebration",
+  "description": "A polite, friendly, and beautifully interactive milestone celebration for Ayesha's 21st birthday.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
