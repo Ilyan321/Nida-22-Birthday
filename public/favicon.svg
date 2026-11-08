@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <radialGradient id="sparkle" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FFF9E6" />
+      <stop offset="100%" stop-color="#FFD700" />
+    </radialGradient>
+  </defs>
+  <!-- Background Circle -->
+  <circle cx="50" cy="50" r="48" fill="#D2143A" stroke="#FFD700" stroke-width="4"/>
+  <!-- Birthday Cake / Present Icon -->
+  <text x="50" y="65" font-size="52" text-anchor="middle" dominant-baseline="central">🎂</text>
+  <!-- Sparkles -->
+  <circle cx="22" cy="24" r="5" fill="#FFD700"/>
+  <circle cx="78" cy="22" r="4" fill="#FFD700"/>
+  <circle cx="82" cy="74" r="3.5" fill="#FFF"/>
+  <circle cx="18" cy="76" r="3.5" fill="#FFF"/>
+</svg>
